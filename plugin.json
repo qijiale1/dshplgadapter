@@ -1,0 +1,17 @@
+{
+  "author": "HologramAgent",
+  "description": "dshplgadapter plugin",
+  "entry": "plugin.bin",
+  "name": "dshplgadapter",
+  "name_en": "dshplgadapter",
+  "name_zh": "中文名",
+  "platforms": [
+    "linux",
+    "darwin"
+  ],
+  "sdk": "1.4.0",
+  "tags": [
+    "dshplgadapter"
+  ],
+  "version": "0.1.0"
+}

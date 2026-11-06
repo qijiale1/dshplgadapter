@@ -1,0 +1,10 @@
+# 产物：不入库
+/build/
+/dist/
+*.hmap
+/node_modules/
+
+# 运行期数据
+/rawfile/*
+!/rawfile/.gitkeep
+!/rawfile/.gitignore
